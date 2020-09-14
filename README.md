@@ -10,6 +10,8 @@ AggreCount utilizes the difference of gaussians methodology to isolate puncta fr
 when images have uneven background illumination, out of focus fields, or varying fluorescence intensities. AC is ready for analysis out of the box for a large variety of 
 aggregate stains (inclduing ubiquitin stains) though may be modified by users to analyze numerous other punctate structures such as peroxisomes and lysosomes. 
 
+![Image](https://tufts.box.com/s/x5q9c9hwd9jf9jvm9f2ac4hfdqonr4ma)
+
 ### Accelerated aggregate quantification
 Using an automated image analysis tool can decrease the amount of time needed for image quantification allowing for scientists to get back to the bench.
 
