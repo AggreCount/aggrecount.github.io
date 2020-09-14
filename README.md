@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## AggreCount: an unbiased automated image analysis tool for quantification of aggregates
 
-You can use the [editor on GitHub](https://github.com/AggreCount/aggrecount.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AggreCount is an automated image analysis tool written in the ImageJ macro language based on the FIJI distribution of ImageJ (version 1.52p or later).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
