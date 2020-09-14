@@ -1,8 +1,22 @@
 ## AggreCount: an unbiased automated image analysis tool for quantification of aggregates
 
 AggreCount is an automated image analysis tool written in the ImageJ macro language based on the FIJI distribution of ImageJ (version 1.52p or later).
+AggreCount requires dual channel images that have (at a minimum) immunohistochemical stains for aggregates and nuclei though it supports n-channel images.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download AggreCount v1.1](https://github.com/AggreCount/AggreCount/archive/master.zip)
+
+### Advanced image processing
+AggreCount utilizes the difference of gaussians methodology to isolate puncta from immunohistochemical images. DoG allows for the reliable quantification of puncta even
+when images have uneven background illumination, out of focus fields, or varying fluorescence intensities. AC is ready for analysis out of the box for a large variety of 
+aggregate stains (inclduing ubiquitin stains) though may be modified by users to analyze numerous other punctate structures such as peroxisomes and lysosomes. 
+
+### Accelerated aggregate quantification
+Using an automated image analysis tool can decrease the amount of time needed for image quantification allowing for scientists to get back to the bench.
+
+### Easy cell segmentation
+AggreCount uses the native watershed-based segmentation algorithm native to FIJI allowing for segmentation of cells without the need of machine learning algorithms
+and training sets. 
+
 
 ### MarkUP
 
