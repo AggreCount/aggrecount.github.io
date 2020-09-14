@@ -19,6 +19,8 @@ Using an automated image analysis tool can decrease the amount of time needed fo
 AggreCount uses the native watershed-based segmentation algorithm native to FIJI allowing for segmentation of cells without the need of machine learning algorithms
 and training sets. 
 
+![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/segmentation.png?raw=true)
+
 
 ### AggreCount on BioRx
 The AggreCount journal article is now in preprint on BioRx. 
