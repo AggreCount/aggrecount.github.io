@@ -20,34 +20,11 @@ AggreCount uses the native watershed-based segmentation algorithm native to FIJI
 and training sets. 
 
 
-### MarkUP
+### AggreCount on BioRx
+The AggreCount journal article is now in preprint on BioRx. 
+[AggreCount BioRx](https://www.biorxiv.org/content/10.1101/2020.07.25.221267v1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Developed in the Raman Lab at Tufts University
+AggreCount was developed by Jacob Klickstein in the Raman Lab in 2020. Find more information on the lab, our research, and our members by visiting the lab website here
+[Raman Lab](https://www.raman-lab.org/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AggreCount/aggrecount.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
