@@ -24,9 +24,11 @@ and training sets.
 
 ### AggreCount on BioRx
 The AggreCount journal article is now in preprint on BioRx. 
+
 [AggreCount BioRx](https://www.biorxiv.org/content/10.1101/2020.07.25.221267v1)
 
 ### Developed in the Raman Lab at Tufts University
 AggreCount was developed by Jacob Klickstein in the Raman Lab in 2020. Find more information on the lab, our research, and our members by visiting the lab website here
+
 [Raman Lab](https://www.raman-lab.org/)
 
