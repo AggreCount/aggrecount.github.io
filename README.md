@@ -7,6 +7,9 @@ AggreCount requires dual channel images that have at least immunohistochemical s
 
 <a href="https://github.com/AggreCount/AggreCount/archive/master.zip"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
 
+<p><a class="btn btn-large btn-purple" href="https://github.com/AggreCount/AggreCount/archive/master.zip" role="button">Download Aggrecount v1.1</a>
+  <button class="btn btn-large" type="button">Large button button</button></p>
+
 ### Advanced image processing
 AggreCount utilizes the difference of gaussians (DoG) methodology to isolate puncta from immunohistochemical images. DoG allows for the reliable quantification of puncta even
 when images have uneven background illumination, out of focus fields, or varying fluorescence intensities. AC is ready for analysis out of the box for a large variety of 
