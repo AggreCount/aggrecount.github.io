@@ -5,7 +5,7 @@
 AggreCount is an automated image analysis tool written in the ImageJ macro language based on the FIJI distribution of ImageJ (version 1.52p or later).
 AggreCount requires dual channel images that have at least immunohistochemical stains for aggregates and nuclei though it supports n-channel images.
 
-[<img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png" width="300">](https://github.com/AggreCount/AggreCount/archive/master.zip)
+[<img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300">](https://github.com/AggreCount/AggreCount/archive/master.zip)
 
 ### Advanced image processing
 AggreCount utilizes the difference of gaussians (DoG) methodology to isolate puncta from immunohistochemical images. DoG allows for the reliable quantification of puncta even
