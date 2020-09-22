@@ -1,3 +1,9 @@
+---
+title: About AC
+layout: default
+filename: about.md
+--- 
+
 ![aggrecount logo](https://github.com/AggreCount/aggrecount.github.io/blob/master/AC_logo1.png?raw=true)
 
 ## About AggreCount
