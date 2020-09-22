@@ -39,5 +39,8 @@ in the "nuclei" field within the individual data sheets as well as the "dataset_
 ![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/nucprocess.png?raw=true)
 
 ## Cell segmentation
+AggreCount acheives high quality cell segmentation for low to moderate density cell cultures without the need for machine learning or user selection of individual cells. AC creates a composite image between the cell bodies and nuclei images, enhancing the signal of both. Using the composite image, local maxima are determined using the "Find Maxima..." function in ImageJ. From each of these maxima, a watershed algorithm determines the borders between each cell and creates a Voronoi diagram. This diagram is used to capture cell segment ROIs. These ROIs are checked for nuclei and ROIs that do not contain nuclei are removed. Additionally, maxima (cells) that occur too close to the image border are excluded.
+[Find Maxima documentation](https://imagej.nih.gov/ij/docs/guide/146-29.html)
 
+![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/cellprocess.png?raw=true)
 
