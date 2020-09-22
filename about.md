@@ -29,3 +29,15 @@ AggreCount processes aggregate immunohistochemical stains in 4 steps.
   an image with isolated puncta which is thresholded using a user-set value.
 
 ![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/aggprocess.png?raw=true)
+
+### Nuclei processing
+Nuclei fluorescent intensity is enhanced and normalized using the "enhance contrast" function in ImageJ. That image is thresholded and binarized automatically. Holes in the 
+binary image are filled and is dilated. ROIs are captured from this image with a size cutoff to prevent small artefacts from being categorized as nuclei. The average size of 
+nuclei is caluclated and used to determine whether a ROI contains multiple nuclei (IE the fluorescent signal from two or more nuclei blended together). This value is reported
+in the "nuclei" field within the individual data sheets as well as the "dataset_cells" file.
+
+![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/nucprocess.png?raw=true)
+
+## Cell segmentation
+
+
