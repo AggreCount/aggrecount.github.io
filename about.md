@@ -28,4 +28,4 @@ AggreCount processes aggregate immunohistochemical stains in 4 steps.
   The image from step 3 is duplicated and a Gaussian filter is applied with a sigma of 2.5 (scaled). This blurred image is subtracted from the pre-processed image to create
   an image with isolated puncta which is thresholded using a user-set value.
 
-![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/processing%20imageac.png?raw=true)
+![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/aggprocess.png?raw=true)
