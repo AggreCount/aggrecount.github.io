@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-filename: B about
+filename: J about
 --- 
 
 ![aggrecount logo](https://github.com/AggreCount/aggrecount.github.io/blob/master/AC_logo1.png?raw=true)
