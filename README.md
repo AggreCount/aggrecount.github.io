@@ -1,3 +1,9 @@
+---
+title: Home2
+layout: default
+filename: README
+--- 
+
 ![aggrecount logo](https://github.com/AggreCount/aggrecount.github.io/blob/master/AC_logo1.png?raw=true)
 
 ## An unbiased automated image analysis tool for quantification and localization of cellular aggregates
