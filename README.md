@@ -34,8 +34,9 @@ The AggreCount journal article is now in preprint on BioRx.
 
 ### Developed in the Raman Lab at Tufts University
 AggreCount was developed by Jacob Klickstein in the Raman Lab in 2020. 
-This work was supported by NIH grant R01GM127557 to Malavika Raman Ph.D.
-Find more information on the lab, our research, and our members by visiting the lab website here
 
+This work was supported by NIH grant R01GM127557 to Malavika Raman Ph.D.
+
+Find more information on the lab, our research, and our members by visiting the lab website here
 [Raman Lab](https://www.raman-lab.org/)
 
