@@ -12,14 +12,13 @@ AggreCount requires dual channel images that have at least immunohistochemical s
 
 [Full instructions](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/AggreCount%20Instructions.txt)
 
-Current version: 1.13
+[Download FIJI](https://imagej.net/Fiji/Downloads)
 
-1.13 patch notes
+##1.13 patch notes
 - Added new thresholding method combining segmentation and thresholding
     Select this method from the main menu drop down menu "Thresholding_new"
 - Fixed cell thresholding, allowing user to select the option without "Boolean error"
 
-[Download FIJI](https://imagej.net/Fiji/Downloads)
 
 ### Advanced image processing
 AggreCount utilizes the difference of gaussians (DoG) methodology to isolate puncta from immunohistochemical images. DoG allows for the reliable quantification of puncta even
