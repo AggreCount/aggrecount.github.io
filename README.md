@@ -5,9 +5,14 @@
 AggreCount is an automated image analysis tool written in the ImageJ macro language based on the FIJI distribution of ImageJ (version 1.52p or later).
 AggreCount requires dual channel images that have at least immunohistochemical stains for aggregates and nuclei though it supports n-channel images.
 
-<a href="https://github.com/AggreCount/AggreCount/blob/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/AggreCount%20v1_13.ijm"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
+<a href="https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/AggreCount%20v1_13.ijm"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
 
+(right click -> "Save as...")
+
+[Quick start guide](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/Quick%20start%20guide.txt)
+[Full instructions](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/AggreCount%20Instructions.txt)
 Current version: 1.13
+
 1.13 patch notes
 - Added new thresholding method combining segmentation and thresholding
     Select this method from the main menu drop down menu "Thresholding_new"
