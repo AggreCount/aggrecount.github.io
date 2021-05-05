@@ -12,11 +12,17 @@ filename: downloads
 
 (right click -> "Save link as...")
 
+[Download FIJI](https://imagej.net/Fiji/Downloads)
+
+## Documentation
+
 [Quick start guide](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/Quick%20start%20guide.txt)
 
 [Full instructions](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/AggreCount%20Instructions.txt)
 
-[Download FIJI](https://imagej.net/Fiji/Downloads)
+[AggreCount article](https://github.com/AggreCount/AggreCount/raw/master/AggreCount_download/AggreCount_pdf.pdf)
+
+[AggreCount article supplement](https://github.com/AggreCount/AggreCount/raw/master/AggreCount_download/AggreCount_supplement.pdf)
 
 ## Previous Versions
 [AggreCount v1.12](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/past%20versions/AggreCount%20v1.12.ijm)
