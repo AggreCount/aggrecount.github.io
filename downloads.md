@@ -8,3 +8,17 @@ filename: downloads
 
 ## Downloads
 
+<a href="https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/AggreCount%20v1_13.ijm"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
+
+(right click -> "Save link as...")
+
+[Quick start guide](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/Quick%20start%20guide.txt)
+
+[Full instructions](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/AggreCount%20Instructions.txt)
+
+[Download FIJI](https://imagej.net/Fiji/Downloads)
+
+## Previous Versions
+[AggreCount v1.12](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/past%20versions/AggreCount%20v1.12.ijm)
+
+[AggreCount v1.1](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/past%20versions/AggreCount_v1_1.ijm)
