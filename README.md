@@ -7,7 +7,7 @@ AggreCount requires dual channel images that have at least immunohistochemical s
 
 <a href="https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/AggreCount%20v1_13.ijm"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
 
-(right click -> "Save as...")
+(right click -> "Save link as...")
 
 [Quick start guide](https://github.com/AggreCount/AggreCount/raw/036048df7b131d118d80022108b8a7ebada3b809/AggreCount_download/documentation/Quick%20start%20guide.txt)
 
