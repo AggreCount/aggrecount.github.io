@@ -52,15 +52,15 @@ This work was supported by NIH grant R01GM127557 to Malavika Raman Ph.D.
 Find more information on the lab, our research, and our members by visiting the lab website here
 [Raman Lab](https://www.raman-lab.org/)
 
-### Previous patch notes
-## 1.11
+## Previous patch notes
+### 1.11
 - Fixed indexing error when an aggregate ROI happens to lie between two cell ROIs
 - Added "Largest perinuclear aggregate size" to dataset_cells for post-hoc aggresome analysis
 - Changed DoG blur to scale with image scale
 - Changed final gaussian blur of aggregates to scale with image scale
 - Added a gamma process step to enhance bright puncta
 
-## 1.12 
+### 1.12 
 - Added support for multi-channel stacks using duplicate function
 - Added additional instructions in setup prompts for clarity
 - Added "dataset_description" save file with explanations for each data field
