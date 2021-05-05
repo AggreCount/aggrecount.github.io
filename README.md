@@ -5,7 +5,12 @@
 AggreCount is an automated image analysis tool written in the ImageJ macro language based on the FIJI distribution of ImageJ (version 1.52p or later).
 AggreCount requires dual channel images that have at least immunohistochemical stains for aggregates and nuclei though it supports n-channel images.
 
-<a href="https://github.com/AggreCount/AggreCount/archive/master.zip"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
+<a href="https://github.com/AggreCount/AggreCount/AggreCount_download.zip"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
+Current version: 1.13
+1.13 patch notes
+- Added new thresholding method combining segmentation and thresholding
+    Select this method from the main menu drop down menu "Thresholding_new"
+- Fixed cell thresholding, allowing user to select the option without "Boolean error"
 
 [Download FIJI](https://imagej.net/Fiji/Downloads)
 
@@ -28,9 +33,9 @@ and training sets. This segmentation methods allows for separation of cells even
 
 
 ### AggreCount on BioRx
-The AggreCount journal article is now in preprint on BioRx. 
+The AggreCount journal article is now published in the Journal of Biological Chemistry. 
 
-[AggreCount BioRx](https://www.biorxiv.org/content/10.1101/2020.07.25.221267v1)
+[AggreCount paper](https://doi.org/10.1074/jbc.RA120.015398)
 
 ### Developed in the Raman Lab at Tufts University
 AggreCount was developed by Jacob Klickstein in the Raman Lab in 2020. 
@@ -40,3 +45,18 @@ This work was supported by NIH grant R01GM127557 to Malavika Raman Ph.D.
 Find more information on the lab, our research, and our members by visiting the lab website here
 [Raman Lab](https://www.raman-lab.org/)
 
+### Previous patch notes
+1.11
+- Fixed indexing error when an aggregate ROI happens to lie between two cell ROIs
+- Added "Largest perinuclear aggregate size" to dataset_cells for post-hoc aggresome analysis
+- Changed DoG blur to scale with image scale
+- Changed final gaussian blur of aggregates to scale with image scale
+- Added a gamma process step to enhance bright puncta
+1.12 
+- Added support for multi-channel stacks using duplicate function
+- Added additional instructions in setup prompts for clarity
+- Added "dataset_description" save file with explanations for each data field
+- Fixed error when there is a folder name < 4 characters in the analysis folder
+- Added "help" button to main dialog window that directs to BioRx preprint of the AggreCount article
+- Switched "Make binary" function in cell body thresholding to the "minimal" auto threshold function
+- Added gamma processing step to cell body thresholding to enhance cell body detection
