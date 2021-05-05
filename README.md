@@ -6,6 +6,7 @@ AggreCount is an automated image analysis tool written in the ImageJ macro langu
 AggreCount requires dual channel images that have at least immunohistochemical stains for aggregates and nuclei though it supports n-channel images.
 
 <a href="https://github.com/AggreCount/AggreCount/AggreCount_download.zip"><img src="https://github.com/AggreCount/aggrecount.github.io/blob/master/Picture1.png?raw=true" width="300"></a>
+
 Current version: 1.13
 1.13 patch notes
 - Added new thresholding method combining segmentation and thresholding
