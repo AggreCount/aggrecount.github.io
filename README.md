@@ -39,10 +39,17 @@ and training sets. This segmentation methods allows for separation of cells even
 ![Image](https://github.com/AggreCount/aggrecount.github.io/blob/master/segmentation.png?raw=true)
 
 
-### AggreCount on BioRx
+### AggreCount is published!
 The AggreCount journal article is now published in the Journal of Biological Chemistry. 
 
 [AggreCount paper](https://doi.org/10.1074/jbc.RA120.015398)
+
+### See how other researchers are using AggreCount
+The Raman lab uses AggreCount to quantify aggresomes in BTZ treated cells 
+[The p97–UBXN1 complex regulates aggresome formation] (https://doi.org/10.1242/jcs.254201)
+
+Hemeno et al quantify membraneless organelles containing CLUH and SPAG5
+[The interactome of CLUH reveals its association to SPAG5 and its co-translational proximity to mitochondrial proteins](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01213-y#Sec2)
 
 ### Developed in the Raman Lab at Tufts University
 AggreCount was developed by Jacob Klickstein in the Raman Lab in 2020. 
